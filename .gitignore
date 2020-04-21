@@ -1,0 +1,12 @@
+######### ES software related #########
+LICENSE.txt
+NOTICE.txt
+README.asciidoc
+bin/
+config/
+data/
+es_run_log.log
+jdk.app/
+lib/
+logs/
+modules/
