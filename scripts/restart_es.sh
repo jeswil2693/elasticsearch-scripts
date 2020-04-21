@@ -1,5 +1,7 @@
 #!/bin/bash
 
-sh stop_es.sh
+source ~/.bash_profile
 
-sh start_es.sh
+sh $ES_HOME/scripts/stop_es.sh
+
+sh $ES_HOME/scripts/start_es.sh
